@@ -1,0 +1,18 @@
+PODS:
+  - AlamofireDomain (4.1)
+  - SnapKit (3.2.0)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - AlamofireDomain (~> 4.0)
+  - SnapKit (~> 3.2.0)
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  AlamofireDomain: 6a17c975e5fe8c10d8dbfdb1ab28e6dd0ae7cd41
+  SnapKit: 1ca44df72cfa543218d177cb8aab029d10d86ea7
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: 37c4df1c6fb3607d80e3327a78e7bd24f3f97530
+
+COCOAPODS: 1.2.1
